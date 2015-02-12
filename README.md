@@ -5,21 +5,12 @@ tnef decoder
 Setup
 =====
 
-*
-```
-pip install -r requirements.txt
-```
+* ```pip install -r requirements.txt```
 
 
 Usage
 =====
 
 * copy the content of the attachment from the "show original" email into the mac clipboard.
-*
-```
-pbpaste > file.dat
-```
-*
-```
-python decode_tnf.py file.dat
-```
+* ```pbpaste > file.dat```
+* ```python decode_tnf.py file.dat```
