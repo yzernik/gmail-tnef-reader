@@ -1,4 +1,4 @@
-tnef decoder
+Gmail TNEF Reader
 ============
 
 
