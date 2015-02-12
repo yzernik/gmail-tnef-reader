@@ -26,7 +26,6 @@ def main():
         sys.exit(2)
     tnef_fname = sys.argv[1]
     decode_tnef(tnef_fname)
-    
 
 
 if __name__ == "__main__":
